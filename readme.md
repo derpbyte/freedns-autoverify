@@ -1,7 +1,7 @@
 # freedns-autoverify
 ```shell
 
-cp copy-me.env .env
+cp copy_me.env .env
 nano .env
 ```
 
